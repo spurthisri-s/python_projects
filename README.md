@@ -2,7 +2,7 @@
 
 Welcome to my Python Projects Repository.
 
-This repository contains Python mini-projects developed as part of my daily learning journey. These projects help me improve my programming, problem-solving, and software development skills.
+This repository contains mini-projects developed during my Python learning journey. Each project focuses on improving programming logic, problem-solving skills, and understanding of core Python concepts.
 
 ## Projects
 
@@ -26,7 +26,7 @@ A program that accepts student marks and displays grades based on performance.
 
 **Concepts Used**
 
-* Input/Output
+* Input and Output
 * Conditional Statements
 * If-Elif-Else
 * Variables
@@ -47,7 +47,7 @@ Generates the multiplication table for a given number.
 
 ### 4. Calculator Using Functions
 
-A calculator that performs basic arithmetic operations using functions.
+A calculator that performs arithmetic operations using Python functions.
 
 **Concepts Used**
 
@@ -71,14 +71,13 @@ A menu-driven application to manage student records.
 
 * Lists
 * Loops
-* Functions
 * Menu-Driven Programming
 
 ---
 
 ### 6. Contact Book
 
-A contact management application that stores names and phone numbers.
+A contact management application for storing names and phone numbers.
 
 **Features**
 
@@ -89,6 +88,43 @@ A contact management application that stores names and phone numbers.
 
 * Dictionaries
 * Key-Value Pairs
+* Loops
+
+---
+
+### 7. Quiz Application
+
+An interactive quiz program that evaluates user knowledge and displays a score.
+
+**Features**
+
+* Multiple Questions
+* Score Tracking
+* Result Evaluation
+
+**Concepts Used**
+
+* Conditions
+* Variables
+* User Input
+* Logic Building
+
+---
+
+### 8. Unique Visitor Tracker
+
+A system that stores and displays unique visitor names.
+
+**Features**
+
+* Add Visitor
+* View Visitors
+* Prevent Duplicate Entries
+
+**Concepts Used**
+
+* Sets
+* Unique Data Storage
 * Loops
 * Menu-Driven Programming
 
@@ -101,7 +137,7 @@ A contact management application that stores names and phone numbers.
 * Git
 * GitHub
 
-## Skills Gained
+## Skills Developed
 
 * Python Programming
 * Problem Solving
@@ -116,10 +152,10 @@ A contact management application that stores names and phone numbers.
 
 * To-Do List Application
 * Expense Tracker
-* Quiz Application
 * Library Management System
 * Attendance Management System
 * File Handling Projects
+* GUI Applications using Tkinter
 
 ## Author
 
