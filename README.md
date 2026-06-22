@@ -2,7 +2,7 @@
 
 Welcome to my Python Projects Repository.
 
-This repository contains mini-projects developed during my Python learning journey. Each project focuses on improving programming logic, problem-solving skills, and understanding of core Python concepts.
+This repository contains Python mini-projects developed during my learning journey. Each project helps me improve programming skills, problem-solving abilities, and understanding of core Python concepts.
 
 ## Projects
 
@@ -130,6 +130,65 @@ A system that stores and displays unique visitor names.
 
 ---
 
+### 9. Notes Manager
+
+A file-based application used to save and view notes permanently.
+
+**Features**
+
+* Add Notes
+* View Notes
+* Store Data in Files
+
+**Concepts Used**
+
+* File Handling
+* Read, Write and Append Operations
+* Loops
+* User Input
+
+---
+
+### 10. Safe Calculator
+
+A calculator that handles invalid input and runtime errors safely.
+
+**Features**
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Error Handling
+
+**Concepts Used**
+
+* Exception Handling
+* try-except
+* ValueError
+* ZeroDivisionError
+
+---
+
+### 11. Random Password Generator
+
+A utility that generates secure random passwords.
+
+**Features**
+
+* Custom Password Length
+* Random Character Generation
+* Strong Password Creation
+
+**Concepts Used**
+
+* Modules
+* Random Module
+* String Module
+* Loops
+
+---
+
 ## Technologies Used
 
 * Python 3
@@ -145,6 +204,9 @@ A system that stores and displays unique visitor names.
 * Functions
 * Loops
 * Conditional Logic
+* File Handling
+* Exception Handling
+* Modules
 * Version Control with Git
 * GitHub Repository Management
 
@@ -154,7 +216,7 @@ A system that stores and displays unique visitor names.
 * Expense Tracker
 * Library Management System
 * Attendance Management System
-* File Handling Projects
+* Banking System
 * GUI Applications using Tkinter
 
 ## Author
